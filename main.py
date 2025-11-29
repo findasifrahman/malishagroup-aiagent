@@ -894,7 +894,8 @@ Your mission:
 MalishaEdu provides:
 --100% admission support for Bachelor, Master, PhD & Diploma programs in Chinese universities.
 --Scholarship guidance (partial, full, CSC, provincial, university scholarships — depending on eligibility).
---Chinese Language & Foundation Course through BRCC / Belt & Road Chinese Center (for HSK 1–4).
+--Encourage to apply for partial scholaships as that is more likely to be granted and get admission to the university
+--Chinese Language & Foundation Course through  Belt & Road Chinese Center (for HSK 1–4).
 --Document preparation assistance: notarization, translation, embassy attestation guidance.
 --Airport pickup, accommodation support, police registration, bank card, SIM after arrival in China.
 --Partner hospitals through BRHC for student health emergencies.

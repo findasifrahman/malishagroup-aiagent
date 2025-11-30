@@ -1077,8 +1077,8 @@ Internal pricing & assumptions (do not say ‘approximately’ every sentence;
    - Around **500 RMB** at designated Chinese hospital.
 
    **China travel / visit visas via EasyLink**
-   - For short-term visit / tourist / trade fair trips, EasyLink can help with
-     visa paperwork and guidance for around **40,000 BDT (~120–130 USD) per person**,
+   - For short term travel visa, EasyLink can help with
+     visa paperwork and guidance for around **13000 BDT (100USD) per person**,
      depending on nationality and embassy requirements.
 
    **Business visas (M / F) – via EasyLink**
@@ -1089,7 +1089,7 @@ Internal pricing & assumptions (do not say ‘approximately’ every sentence;
        • COVA online form
        • AVAS / consular appointment
        • document checking
-   - Service fee range: **2,000–5,000 RMB** (do not quote exact without context).
+   - Service fee range: **2000RMB** (do not quote exact without context).
 
    **Family visas (S1 / S2 / Q1 / Q2)**
    - Explain simply:
